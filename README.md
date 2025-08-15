@@ -70,5 +70,6 @@ Java Classes: Question class for structured data.
 User Input: Scanner to accept answers.
 
 Author
+------
 Developed by [Balaga Anushka] as part of Java OOP Task 8.
 
